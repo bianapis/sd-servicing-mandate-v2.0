@@ -1,0 +1,15 @@
+{
+  "servicingMandateAgreementInstanceRecord" : {
+    "servicingMandateAgreementProductServiceProfile" : {
+      "servicingMandateAgreementProductServiceTypeEligibility" : "servicingMandateAgreementProductServiceTypeEligibility",
+      "productServiceType" : "productServiceType"
+    },
+    "servicingMandateAgreementValidFromToDate" : "09-22-2018",
+    "servicingMandateAgreementProductServiceProfileReference" : "708594",
+    "documentDirectoryEntryInstanceReference" : "748395"
+  },
+  "servicingMandateAgreementInstanceReference" : "SMAIR787963",
+  "servicingMandateAgreementInstanceStatus" : "servicingMandateAgreementInstanceStatus",
+  "servicingMandateAgreementEvaluateActionReference" : "SMAEAR750827",
+  "servicingMandateAgreementEvaluateActionRecord" : {}
+}

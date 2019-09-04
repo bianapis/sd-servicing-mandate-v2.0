@@ -1,0 +1,36 @@
+{
+  "servicingMandateAgreementInstanceRecord" : {
+    "customerReference" : "707681",
+    "servicingMandateAgreementProductServiceProfile" : {
+      "servicingMandateAgreementProductServiceTypeEligibility" : "servicingMandateAgreementProductServiceTypeEligibility",
+      "productServiceType" : "productServiceType"
+    },
+    "servicingMandateAgreementJurisdiction" : "servicingMandateAgreementJurisdiction",
+    "servicingMandateAgreementValidFromToDate" : "09-22-2018",
+    "servicingMandateAgreementProductServiceProfileReference" : "771947",
+    "servicingMandateAgreementType" : "servicingMandateAgreementType"
+  },
+  "customerMandateRetrieveActionResponse" : "customerMandateRetrieveActionResponse",
+  "customerMandateInstanceRecord" : {
+    "customerReference" : "744021",
+    "servicingMandateAgreementCustomerProductServiceProfile" : {
+      "servicingMandateAgreementCustomerProductServiceTypeUsage" : "servicingMandateAgreementCustomerProductServiceTypeUsage",
+      "servicingMandateAgreementCustomerProductServiceTypeAccess" : "servicingMandateAgreementCustomerProductServiceTypeAccess",
+      "productServiceType" : "productServiceType"
+    }
+  },
+  "customerMandateRetrieveActionTaskReference" : "CMRATR752038",
+  "customerMandateRetrieveActionTaskRecord" : {},
+  "customerMandateInstanceReport" : {
+    "customerMandateInstanceReportType" : "customerMandateInstanceReportType",
+    "customerMandateInstanceReportRecord" : {},
+    "customerMandateInstanceReportParameters" : "customerMandateInstanceReportParameters",
+    "customerMandateInstanceReport" : {}
+  },
+  "customerMandateInstanceAnalysis" : {
+    "customerMandateInstanceAnalysisReport" : {},
+    "customerMandateInstanceAnalysisRecord" : {},
+    "customerMandateInstanceAnalysisParameters" : "customerMandateInstanceAnalysisParameters",
+    "customerMandateInstanceAnalysisReportType" : "customerMandateInstanceAnalysisReportType"
+  }
+}

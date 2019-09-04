@@ -1,0 +1,13 @@
+{
+  "customerMandateInstanceRecord" : {
+    "customerReference" : "744590",
+    "servicingMandateAgreementCustomerProductServiceProfile" : {
+      "servicingMandateAgreementCustomerProductServiceTypeUsage" : "servicingMandateAgreementCustomerProductServiceTypeUsage",
+      "servicingMandateAgreementCustomerProductServiceTypeAccess" : "servicingMandateAgreementCustomerProductServiceTypeAccess",
+      "productServiceType" : "productServiceType"
+    }
+  },
+  "customerMandateUpdateActionTaskReference" : "CMUATR711889",
+  "updateResponseRecord" : {},
+  "customerMandateUpdateActionTaskRecord" : {}
+}

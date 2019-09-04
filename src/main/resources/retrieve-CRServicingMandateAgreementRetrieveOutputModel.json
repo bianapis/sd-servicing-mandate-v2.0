@@ -1,0 +1,28 @@
+{
+  "servicingMandateAgreementInstanceRecord" : {
+    "customerReference" : "716791",
+    "servicingMandateAgreementProductServiceProfile" : {
+      "servicingMandateAgreementProductServiceTypeEligibility" : "servicingMandateAgreementProductServiceTypeEligibility",
+      "productServiceType" : "productServiceType"
+    },
+    "servicingMandateAgreementResponsibleParties" : "servicingMandateAgreementResponsibleParties",
+    "servicingMandateAgreementJurisdiction" : "servicingMandateAgreementJurisdiction",
+    "servicingMandateAgreementValidFromToDate" : "09-22-2018",
+    "servicingMandateAgreementProductServiceProfileReference" : "738757",
+    "servicingMandateAgreementType" : "servicingMandateAgreementType",
+    "documentDirectoryEntryInstanceReference" : "765541"
+  },
+  "servicingMandateAgreementInstanceAnalysis" : {
+    "servicingMandateAgreementInstanceAnalysisReport" : {},
+    "servicingMandateAgreementInstanceAnalysisData" : "servicingMandateAgreementInstanceAnalysisData",
+    "servicingMandateAgreementInstanceAnalysisReportType" : "servicingMandateAgreementInstanceAnalysisReportType"
+  },
+  "servicingMandateAgreementRetrieveActionTaskReference" : "SMARATR732738",
+  "servicingMandateAgreementInstanceReportRecord" : {
+    "servicingMandateAgreementInstanceReportData" : "servicingMandateAgreementInstanceReportData",
+    "servicingMandateAgreementInstanceReport" : {},
+    "servicingMandateAgreementInstanceReportType" : "servicingMandateAgreementInstanceReportType"
+  },
+  "servicingMandateAgreementRetrieveActionTaskRecord" : {},
+  "servicingMandateAgreementRetrieveActionResponse" : "servicingMandateAgreementRetrieveActionResponse"
+}

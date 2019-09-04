@@ -1,0 +1,18 @@
+{
+  "servicingMandateAgreementInstanceRecord" : {
+    "customerReference" : "749973",
+    "servicingMandateAgreementProductServiceProfile" : {
+      "servicingMandateAgreementProductServiceTypeEligibility" : "servicingMandateAgreementProductServiceTypeEligibility",
+      "productServiceType" : "productServiceType"
+    },
+    "servicingMandateAgreementResponsibleParties" : "servicingMandateAgreementResponsibleParties",
+    "servicingMandateAgreementJurisdiction" : "servicingMandateAgreementJurisdiction",
+    "servicingMandateAgreementValidFromToDate" : "09-22-2018",
+    "servicingMandateAgreementProductServiceProfileReference" : "787038",
+    "servicingMandateAgreementType" : "servicingMandateAgreementType",
+    "documentDirectoryEntryInstanceReference" : "722499"
+  },
+  "servicingMandateAgreementUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "servicingMandateAgreementUpdateActionTaskReference" : "SMAUATR760866"
+}

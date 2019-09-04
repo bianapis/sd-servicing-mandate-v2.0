@@ -1,0 +1,13 @@
+{
+  "customerMandateInstanceRecord" : {
+    "servicingMandateAgreementCustomerProductServiceProfile" : {
+      "servicingMandateAgreementCustomerProductServiceTypeUsage" : "servicingMandateAgreementCustomerProductServiceTypeUsage",
+      "servicingMandateAgreementCustomerProductServiceTypeAccess" : "servicingMandateAgreementCustomerProductServiceTypeAccess",
+      "productServiceType" : "productServiceType"
+    }
+  },
+  "customerMandateInitiateActionReference" : "CMIAR716995",
+  "customerMandateInitiateActionRecord" : {},
+  "customerMandateInstanceReference" : "CMIR754680",
+  "customerMandateInstanceStatus" : "customerMandateInstanceStatus"
+}
